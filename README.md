@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Code-Institute-Solutions/MakingSureItWorks)
+
 # Making Sure It Works
 
 This repo contains the solution code for the *Making Sure It Works* lesson
